@@ -1,0 +1,63 @@
+#head {
+    padding: 10px 102px 19px 109px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+    border-bottom: #01060b0f 1px solid;
+}
+span{
+    font: normal normal normal 14px/1.43 Avenir;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.43;
+    letter-spacing: 0.2px;
+    color: #202020;
+    opacity: 0.5;
+    padding: 20px;
+}
+
+h1{
+    font: normal normal normal 32px/1.25 Avenir;
+    font-size: 45px;
+    font-weight: 500;
+    line-height: 1.25;
+    letter-spacing: 0.4px;
+    color: #202020;
+    opacity: 0.8;
+    margin: 1px 65px 9px 85px;
+}
+
+h4{
+    font: normal normal normal 16px/1.25 Avenir;
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 1.25;
+    letter-spacing: 0.2px;
+    color: #202020;
+    opacity: 0.8;
+    margin: 1px 65px 40px 85px;
+}
+
+button
+{
+    background: #1051a0 0% 0% no-repeat padding-box;
+    border: 1px;
+    border-radius: 2px;
+    opacity: 1;
+    font: normal normal normal 14px/1.43 Avenir;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 2;
+    letter-spacing: 0.2px;
+    color: #ffffff;
+    opacity: 0.8;
+    padding: 5px 35px;
+}
+
+button:hover{
+    background: #01060b 0% 0% no-repeat padding-box;
+}
+
+span:hover{
+    color: #105fad;
+}
