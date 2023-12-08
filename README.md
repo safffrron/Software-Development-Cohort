@@ -7,5 +7,5 @@
 ### Week-1
 <pre>
   1. Java-Script basics and advanced 
-  2. Developing a JS Snake Game 
+  2. Developed a JS Snake Game 
 </pre>
