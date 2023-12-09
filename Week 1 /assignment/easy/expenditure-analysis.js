@@ -5,7 +5,9 @@
   Output - [{ category1 - total_amount_spent_on_category1 }, { category2 - total_amount_spent_on_category2 }]
 */
 
-function calculateTotalSpentByCategory(transactions) {
+function calculateTotalSpentByCategory(transactions) 
+{
+  
   return [];
 }
 
