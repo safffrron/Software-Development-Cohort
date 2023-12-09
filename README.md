@@ -7,7 +7,7 @@ Cope-Pen for Landing page - https://codepen.io/safffrron/pen/qBgvNyz
 
 ### Week-1
 <pre>
-  1. Java-Script basics and advanced 
+  1. Java-Script basics and advanced ( callback , async and promises )
   2. Developed a JS Snake Game 
 </pre>
 Code-Pen for Snake - https://codepen.io/safffrron/pen/ZEwPOao
