@@ -11,3 +11,9 @@ Cope-Pen for Landing page - https://codepen.io/safffrron/pen/qBgvNyz
   2. Developed a JS Snake Game 
 </pre>
 Code-Pen for Snake - https://codepen.io/safffrron/pen/ZEwPOao
+
+### Week-2
+<pre>
+  1. Intro to Back-end ( Node.js and Express.js )
+  2. Creating a web server from scratch in C 
+</pre>
