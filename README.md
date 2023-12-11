@@ -15,5 +15,5 @@ Code-Pen for Snake - https://codepen.io/safffrron/pen/ZEwPOao
 ### Week-2
 <pre>
   1. Intro to Back-end ( HTTP servers , Node.js and Express.js )
-  2. Creating a web server from scratch in C 
+  2. Creating a web server from scratch in C++
 </pre>
